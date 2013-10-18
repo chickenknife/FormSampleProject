@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormSampleProject", "FormSampleProject\FormSampleProject.csproj", "{EAA44EF3-37AE-480D-AE9E-C9FD6869AC5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "propertyGridSample", "propertyGridSample\propertyGridSample.csproj", "{4DE8BC1D-C606-4C65-A125-936B35D8D593}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -10,9 +12,12 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EAA44EF3-37AE-480D-AE9E-C9FD6869AC5C}.Debug|x86.ActiveCfg = Debug|x86
-		{EAA44EF3-37AE-480D-AE9E-C9FD6869AC5C}.Debug|x86.Build.0 = Debug|x86
 		{EAA44EF3-37AE-480D-AE9E-C9FD6869AC5C}.Release|x86.ActiveCfg = Release|x86
 		{EAA44EF3-37AE-480D-AE9E-C9FD6869AC5C}.Release|x86.Build.0 = Release|x86
+		{4DE8BC1D-C606-4C65-A125-936B35D8D593}.Debug|x86.ActiveCfg = Debug|x86
+		{4DE8BC1D-C606-4C65-A125-936B35D8D593}.Debug|x86.Build.0 = Debug|x86
+		{4DE8BC1D-C606-4C65-A125-936B35D8D593}.Release|x86.ActiveCfg = Release|x86
+		{4DE8BC1D-C606-4C65-A125-936B35D8D593}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
